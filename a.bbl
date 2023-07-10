@@ -1,0 +1,355 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{internetnutzer}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=8c6c8a6c97bc5fe8a1939694044116b1}{%
+           family={Rabe},
+           familyi={R\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{8c6c8a6c97bc5fe8a1939694044116b1}
+      \strng{fullhash}{8c6c8a6c97bc5fe8a1939694044116b1}
+      \strng{bibnamehash}{8c6c8a6c97bc5fe8a1939694044116b1}
+      \strng{authorbibnamehash}{8c6c8a6c97bc5fe8a1939694044116b1}
+      \strng{authornamehash}{8c6c8a6c97bc5fe8a1939694044116b1}
+      \strng{authorfullhash}{8c6c8a6c97bc5fe8a1939694044116b1}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{online}
+      \field{month}{1}
+      \field{title}{Anzahl der Internetnutzer weltweit bis 2022}
+      \field{urlday}{11}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://de.statista.com/statistik/daten/studie/805920/umfrage/anzahl-der-internetnutzer-weltweit/
+      \endverb
+      \verb{url}
+      \verb https://de.statista.com/statistik/daten/studie/805920/umfrage/anzahl-der-internetnutzer-weltweit/
+      \endverb
+    \endentry
+    \entry{nutzungsdauer}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=8c6c8a6c97bc5fe8a1939694044116b1}{%
+           family={Rabe},
+           familyi={R\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{8c6c8a6c97bc5fe8a1939694044116b1}
+      \strng{fullhash}{8c6c8a6c97bc5fe8a1939694044116b1}
+      \strng{bibnamehash}{8c6c8a6c97bc5fe8a1939694044116b1}
+      \strng{authorbibnamehash}{8c6c8a6c97bc5fe8a1939694044116b1}
+      \strng{authornamehash}{8c6c8a6c97bc5fe8a1939694044116b1}
+      \strng{authorfullhash}{8c6c8a6c97bc5fe8a1939694044116b1}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{online}
+      \field{month}{5}
+      \field{title}{Täglichen Onlinezeit}
+      \field{urlday}{11}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://de.statista.com/statistik/daten/studie/1388/umfrage/taegliche-nutzung-des-internets-in-minuten/
+      \endverb
+      \verb{url}
+      \verb https://de.statista.com/statistik/daten/studie/1388/umfrage/taegliche-nutzung-des-internets-in-minuten/
+      \endverb
+    \endentry
+    \entry{stepstone}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=dbed1f91e077d2a7ca504afd9ebb583b}{%
+           family={Eckhardt},
+           familyi={E\bibinitperiod},
+           given={Franziska},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{dbed1f91e077d2a7ca504afd9ebb583b}
+      \strng{fullhash}{dbed1f91e077d2a7ca504afd9ebb583b}
+      \strng{bibnamehash}{dbed1f91e077d2a7ca504afd9ebb583b}
+      \strng{authorbibnamehash}{dbed1f91e077d2a7ca504afd9ebb583b}
+      \strng{authornamehash}{dbed1f91e077d2a7ca504afd9ebb583b}
+      \strng{authorfullhash}{dbed1f91e077d2a7ca504afd9ebb583b}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{online}
+      \field{month}{1}
+      \field{title}{Jobstudie: Wie ticken die Generationen?}
+      \field{urlday}{11}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.stepstone.de/e-recruiting/blog/jobstudie-wie-ticken-die-generationen/
+      \endverb
+      \verb{url}
+      \verb https://www.stepstone.de/e-recruiting/blog/jobstudie-wie-ticken-die-generationen/
+      \endverb
+    \endentry
+    \entry{amazon}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=34d27b9109b5682782640b4e57d84a64}{%
+           family={Melchior},
+           familyi={M\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{34d27b9109b5682782640b4e57d84a64}
+      \strng{fullhash}{34d27b9109b5682782640b4e57d84a64}
+      \strng{bibnamehash}{34d27b9109b5682782640b4e57d84a64}
+      \strng{authorbibnamehash}{34d27b9109b5682782640b4e57d84a64}
+      \strng{authornamehash}{34d27b9109b5682782640b4e57d84a64}
+      \strng{authorfullhash}{34d27b9109b5682782640b4e57d84a64}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{online}
+      \field{month}{10}
+      \field{title}{Umfrage zum Online Shopping}
+      \field{urlday}{11}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.internetworld.de/plattformen/amazon/80-prozent-deutschen-kaufen-amazon-2206946.html
+      \endverb
+      \verb{url}
+      \verb https://www.internetworld.de/plattformen/amazon/80-prozent-deutschen-kaufen-amazon-2206946.html
+      \endverb
+    \endentry
+    \entry{ladezeit}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=87913dea1429b86b02a333430e6c4bfc}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Shaun},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{87913dea1429b86b02a333430e6c4bfc}
+      \strng{fullhash}{87913dea1429b86b02a333430e6c4bfc}
+      \strng{bibnamehash}{87913dea1429b86b02a333430e6c4bfc}
+      \strng{authorbibnamehash}{87913dea1429b86b02a333430e6c4bfc}
+      \strng{authornamehash}{87913dea1429b86b02a333430e6c4bfc}
+      \strng{authorfullhash}{87913dea1429b86b02a333430e6c4bfc}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{online}
+      \field{month}{9}
+      \field{title}{How fast should a website load in 2022?}
+      \field{urlday}{16}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.hobo-web.co.uk/your-website-design-should-load-in-4-seconds/
+      \endverb
+      \verb{url}
+      \verb https://www.hobo-web.co.uk/your-website-design-should-load-in-4-seconds/
+      \endverb
+    \endentry
+    \entry{mobileDevices}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=a0cdf8a68143dd854ab58cc099b22030}{%
+           family={Howarth},
+           familyi={H\bibinitperiod},
+           given={Josh},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{a0cdf8a68143dd854ab58cc099b22030}
+      \strng{fullhash}{a0cdf8a68143dd854ab58cc099b22030}
+      \strng{bibnamehash}{a0cdf8a68143dd854ab58cc099b22030}
+      \strng{authorbibnamehash}{a0cdf8a68143dd854ab58cc099b22030}
+      \strng{authornamehash}{a0cdf8a68143dd854ab58cc099b22030}
+      \strng{authorfullhash}{a0cdf8a68143dd854ab58cc099b22030}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{online}
+      \field{month}{2}
+      \field{title}{Internet Traffic from Mobile Devices (Feb 2023)}
+      \field{urlday}{16}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://explodingtopics.com/blog/mobile-internet-traffic
+      \endverb
+      \verb{url}
+      \verb https://explodingtopics.com/blog/mobile-internet-traffic
+      \endverb
+    \endentry
+    \entry{socialmedia}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b7b1c9e23fa9cc4ec6f4dd7dd3381625}{%
+           family={Autor},
+           familyi={A\bibinitperiod},
+           given={Kein},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{b7b1c9e23fa9cc4ec6f4dd7dd3381625}
+      \strng{fullhash}{b7b1c9e23fa9cc4ec6f4dd7dd3381625}
+      \strng{bibnamehash}{b7b1c9e23fa9cc4ec6f4dd7dd3381625}
+      \strng{authorbibnamehash}{b7b1c9e23fa9cc4ec6f4dd7dd3381625}
+      \strng{authornamehash}{b7b1c9e23fa9cc4ec6f4dd7dd3381625}
+      \strng{authorfullhash}{b7b1c9e23fa9cc4ec6f4dd7dd3381625}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{online}
+      \field{title}{Zahlen und Fakten zur Social Media-Nutzung}
+      \field{urlday}{11}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.informationszentrum-mobilfunk.de/artikel/zahlen-und-fakten-zur-social-media-nutzung
+      \endverb
+      \verb{url}
+      \verb https://www.informationszentrum-mobilfunk.de/artikel/zahlen-und-fakten-zur-social-media-nutzung
+      \endverb
+    \endentry
+    \entry{fruchtkaramellen}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=30a7e7a3831abbc18c551a713757ff0a}{%
+           family={Britzelmeier},
+           familyi={B\bibinitperiod},
+           given={Elisa},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{30a7e7a3831abbc18c551a713757ff0a}
+      \strng{fullhash}{30a7e7a3831abbc18c551a713757ff0a}
+      \strng{bibnamehash}{30a7e7a3831abbc18c551a713757ff0a}
+      \strng{authorbibnamehash}{30a7e7a3831abbc18c551a713757ff0a}
+      \strng{authornamehash}{30a7e7a3831abbc18c551a713757ff0a}
+      \strng{authorfullhash}{30a7e7a3831abbc18c551a713757ff0a}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{online}
+      \field{month}{2}
+      \field{title}{Jeder Marketingprofessor würde die Stirn runzeln}
+      \field{urlday}{1}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.sueddeutsche.de/panorama/karneval-bonbon-karamelle-design-fasching-1.5748710
+      \endverb
+      \verb{url}
+      \verb https://www.sueddeutsche.de/panorama/karneval-bonbon-karamelle-design-fasching-1.5748710
+      \endverb
+    \endentry
+    \entry{smartphonenutzer}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=741a941ed7d62d891fc4b3ebbe1c4f10}{%
+           family={Tenzer},
+           familyi={T\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{741a941ed7d62d891fc4b3ebbe1c4f10}
+      \strng{fullhash}{741a941ed7d62d891fc4b3ebbe1c4f10}
+      \strng{bibnamehash}{741a941ed7d62d891fc4b3ebbe1c4f10}
+      \strng{authorbibnamehash}{741a941ed7d62d891fc4b3ebbe1c4f10}
+      \strng{authornamehash}{741a941ed7d62d891fc4b3ebbe1c4f10}
+      \strng{authorfullhash}{741a941ed7d62d891fc4b3ebbe1c4f10}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{online}
+      \field{month}{11}
+      \field{title}{Anzahl der Smartphone-Nutzer}
+      \field{urlday}{11}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://de.statista.com/statistik/daten/studie/198959/umfrage/anzahl-der-smartphonenutzer-in-deutschland-seit-2010/
+      \endverb
+      \verb{url}
+      \verb https://de.statista.com/statistik/daten/studie/198959/umfrage/anzahl-der-smartphonenutzer-in-deutschland-seit-2010/
+      \endverb
+    \endentry
+    \entry{google}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=452aa62b7fd9c8b5567650890e8ed383}{%
+           family={Seybold},
+           familyi={S\bibinitperiod},
+           given={Ralf},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{452aa62b7fd9c8b5567650890e8ed383}
+      \strng{fullhash}{452aa62b7fd9c8b5567650890e8ed383}
+      \strng{bibnamehash}{452aa62b7fd9c8b5567650890e8ed383}
+      \strng{authorbibnamehash}{452aa62b7fd9c8b5567650890e8ed383}
+      \strng{authornamehash}{452aa62b7fd9c8b5567650890e8ed383}
+      \strng{authorfullhash}{452aa62b7fd9c8b5567650890e8ed383}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{online}
+      \field{month}{12}
+      \field{title}{11 Google Fakten, die Sie kennen müssen}
+      \field{urlday}{11}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://seybold.de/11-google-fakten/
+      \endverb
+      \verb{url}
+      \verb https://seybold.de/11-google-fakten/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,35 @@
+\documentclass[11pt, bibliography=totoc]{scrartcl}
+
+%Deutsch
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+
+\setlength{\parindent}{0em}
+\setlength{\parskip}{1.5ex}
+
+%Color
+%\usepackage{xcolor}
+
+%Math
+%usepackage{amsmath,amssymb,amstext}
+%\eqref{eq:1}
+
+%Placing
+\usepackage{float}
+
+%Pictures
+%\usepackage{graphicx}
+
+%Other
+%\usepackage{listings}
+
+%Literaturverzeichnis
+%sudo apt-get install texlive-bibtex-extra biber
+
+%https://de.overleaf.com/learn/latex/Bibliography_management_with_bibtex#Bibliography:_just_a_list_of_.5Cbibitems
+\usepackage[backend=biber, style=ieee]{biblatex} %numeric
+\addbibresource{static/literatur.bib}
+
+%Hyperlinks [hidelinks]
+\usepackage[colorlinks=true, linkcolor=black, citecolor=blue, urlcolor=blue]{hyperref}
